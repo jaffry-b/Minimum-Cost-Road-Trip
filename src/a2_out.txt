@@ -1,0 +1,19 @@
+City                                     MealChoice                          Cost of Meal
+==========================================================================================
+Boston                                     N/A                                     N/A
+
+New York City                     McDonaldâ€™s McChicken - Meal                3.79
+
+Pittsburgh                     McDonaldâ€™s Double Cheeseburger - Meal              4.38
+
+Columbus                     McDonaldâ€™s McChicken - Meal                3.79
+
+Chicago                     McDonaldâ€™s Double Cheeseburger - Meal              4.38
+
+Minneapolis                          McDonaldâ€™s McChicken - Meal              3.79
+
+Boston to Minneapolis  total cost is $20.13
+
+
+DFS: Boston New York City Pittsburgh Columbus Chicago St. Louis Kansas City Minneapolis 
+BFS: 	Boston New York City Pittsburgh Columbus Chicago Minneapolis 
